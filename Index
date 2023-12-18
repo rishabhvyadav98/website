@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <!-- Add your custom styles or link to an external stylesheet here -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav {
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Your Name</h1>
+</header>
+
+<nav>
+    <a href="#blogs">Blogs</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#about">About</a>
+</nav>
+
+<section id="blogs">
+    <h2>Blogs</h2>
+    <p>Explore my latest blog posts and thoughts.</p>
+    <!-- Add your blog content here -->
+</section>
+
+<section id="portfolio">
+    <h2>Portfolio</h2>
+    <p>Discover my projects and achievements.</p>
+    <!-- Add your portfolio content here -->
+</section>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Learn more about who I am and my skills.</p>
+    <!-- Add your about content here -->
